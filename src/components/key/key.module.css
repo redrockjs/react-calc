@@ -1,0 +1,11 @@
+.key {
+    width: 80px;
+    height: 80px;
+    font-size: 1em;
+    color: black;
+    background-color: darkorange;
+    margin: 2px;
+}
+
+.col {
+}
